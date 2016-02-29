@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/com/example/music/modle=UTF-8
+encoding//src/com/example/music/modle/AppConstant.java=GBK
+encoding//src/com/example/music/modle/ILrcView.java=UTF-8
+encoding//src/com/example/music/modle/LrcRow.java=UTF-8
+encoding//src/com/example/music/modle/LrcView.java=UTF-8
+encoding//src/com/example/music/utils/DefaultLrcParser.java=GBK
+encoding//src/com/example/music/utils/ILrcParser.java=UTF-8
